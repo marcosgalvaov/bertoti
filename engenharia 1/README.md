@@ -1,5 +1,6 @@
 ATIVIDADE 1 - SOFTWARE É INTANGÍVEL
 <br/>
+<br/>
 "Programação" e "Engenharia de Software" possuem ênfases e aplicações diferentes.
 Engenharia usa o conhecimento teórico aplicado para criar algo real. Na engenharia de software é a mesma coisa, apesar de o que é criado ser intangível. 
 Engenharia de software é mais nova de todas.
@@ -8,7 +9,9 @@ Porém, como os softwares estão cada vez mais presentes na nossa vida, é preci
 Engenharia de software não é apenas programar, mas é também todas as ferramentas e processos que uma organização usa para criar e manter o código sempre.
 <br/>
 <br/>
+<br/>
 ATIVIDADE 2 - ENGENHARIA DE SOFTWARE = PROGRAMAÇÃO + TEMPO, ESCALABILIDADE E TRADE-OFFS
+<br/>
 <br/>
 Programação integrada ao longo do tempo.
 
@@ -27,7 +30,9 @@ Kafka criado pelo LinkedIn em 2009 - Ferramenta pra escalar sistemas (usado pela
 Escalar - Muitas conexões ao mesmo tempo
 <br/>
 <br/>
+<br/>
 ATIVIDADE 3 - REQUISITOS NÃO FUNCIONAIS
+<br/>
 <br/>
 Escalabilidade - Suporte para muitas conexões ao mesmo tempo. Aguentar o número de usuários utilizando o sistema. Kafka criado pelo LinkedIn em 2009 - Ferramenta pra escalar sistemas (usado pela maioria dos bancos).
 
@@ -40,7 +45,9 @@ Safety - O sistema precisa ser seguro, a prova de erros, principalmente se erros
 Robustez - A habilidade do sistema em continuar funcionando apesar de erros. Se o software continua performando bem, sem cair e sem perder performance.
 <br/>
 <br/>
+<br/>
 ATIVIDADE 4 - TRADE-OFFS
+<br/>
 <br/>
 Caso 1) Minecraft Java x Minecraft Bedrock
 - Bedrock apresenta maior portabilidade e escalabilidade.
@@ -48,6 +55,8 @@ Caso 1) Minecraft Java x Minecraft Bedrock
 
 Enquanto a versão Bedrock roda em diversos tipos de dispositivos (computadores, dispositivos móveis, videogames), principalmente em dispositivos mais leves, a versão Java roda apenas em computadores com sistema windows, IOS, linux e chromeOS. Apesar disso, a versão Java apresenta uma compreensão maior em segurar erros e consistência com o seu sistema, enquanto a versão Bedrock apresenta mais erros.
 <br/>
+<br/>
+
 Caso 2) Android x IOS
 - Android apresenta maior flexibilidade, portabilidade, usabilidade 
 - IOS apresenta maior performance, segurança, robustez.
