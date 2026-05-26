@@ -1,4 +1,4 @@
-ATIVIDADE 1 - SOFTWARE É INTANGÍVEL
+**ATIVIDADE 1 - SOFTWARE É INTANGÍVEL**
 <br/>
 <br/>
 "Programação" e "Engenharia de Software" possuem ênfases e aplicações diferentes.
@@ -10,7 +10,7 @@ Engenharia de software não é apenas programar, mas é também todas as ferrame
 <br/>
 <br/>
 <br/>
-ATIVIDADE 2 - ENGENHARIA DE SOFTWARE = PROGRAMAÇÃO + TEMPO, ESCALABILIDADE E TRADE-OFFS
+**ATIVIDADE 2 - ENGENHARIA DE SOFTWARE = PROGRAMAÇÃO + TEMPO, ESCALABILIDADE E TRADE-OFFS**
 <br/>
 <br/>
 Programação integrada ao longo do tempo.
@@ -31,7 +31,7 @@ Escalar - Muitas conexões ao mesmo tempo
 <br/>
 <br/>
 <br/>
-ATIVIDADE 3 - REQUISITOS NÃO FUNCIONAIS
+**ATIVIDADE 3 - REQUISITOS NÃO FUNCIONAIS**
 <br/>
 <br/>
 Escalabilidade - Suporte para muitas conexões ao mesmo tempo. Aguentar o número de usuários utilizando o sistema. Kafka criado pelo LinkedIn em 2009 - Ferramenta pra escalar sistemas (usado pela maioria dos bancos).
@@ -46,7 +46,7 @@ Robustez - A habilidade do sistema em continuar funcionando apesar de erros. Se 
 <br/>
 <br/>
 <br/>
-ATIVIDADE 4 - TRADE-OFFS
+**ATIVIDADE 4 - TRADE-OFFS**
 <br/>
 <br/>
 Caso 1) Minecraft Java x Minecraft Bedrock
@@ -61,54 +61,56 @@ Caso 2) Android x IOS
 - Android apresenta maior flexibilidade, portabilidade, usabilidade 
 - IOS apresenta maior performance, segurança, robustez.
 <br/>
-Caso 3)xxxxxx
--xxxx
--xxxx
+Caso 3) Armazenamento em Nuvem x Armazenamento Local<br>
+
+
+- Armazenamento em nuvem apresenta maior acessibilidade e escalabilidade.
+- Armazenamento local apresenta maior controle e privacidade.
+
+O armazenamento em nuvem permite acessar arquivos de qualquer lugar com internet, além de facilitar o aumento de espaço sem precisar trocar equipamentos físicos. Porém, depende de conexão com a internet e pode gerar preocupações com segurança dos dados. Já o armazenamento local mantém os arquivos diretamente no dispositivo do usuário, oferecendo mais controle e privacidade, mas possui menor flexibilidade e limite físico de espaço.
 <br/>
 <br/>
 <br/>
-ATIVIDADE 5 - PLANEJAMENTO DE UM HOTEL
+**ATIVIDADE 5 - PLANEJAMENTO DE UM HOTEL**
 <br/>
 <br/>
-★ Planejamento de um hotel ★
-O que tem em um hotel? 
-Funcionários, quartos, recepção, serviços extras, áreas de lazer.
-Dor do cliente: Dormir em algum lugar
+★ Planejamento de um hotel ★<br>
+O que tem em um hotel?<br> 
+Funcionários, quartos, recepção, serviços extras, áreas de lazer.<br>
+Dor do cliente: Dormir em algum lugar<br>
 <br/>
 <br/>
-- Processo tradicional:
-1) Construção de áreas de lazer (piscina, bar, salão de jogos)
-2) Construção da recepção e áreas administrativas
-3) Construção dos quartos
-4) Contratação de funcionários
+- Processo tradicional:<br>
+1) Construção de áreas de lazer (piscina, bar, salão de jogos)<br>
+2) Construção da recepção e áreas administrativas<br>
+3) Construção dos quartos<br>
+4) Contratação de funcionários<br>
+<br/>
+- Processo ágil:<br>
+1) Construção de uma pousada funcional (Poucos quartos e funcionários)<br>
+2) Expansão dos serviços (Alimentação e estacionamento)<br>
+3) Expansão do prédio (mais quartos)<br>
+4) Construção de áreas de lazer (piscina, bar, salão de jogos)<br>
 <br/>
 <br/>
-- Processo ágil:
-1) Construção de uma pousada funcional (Poucos quartos e funcionários)
-2) Expansão dos serviços (Alimentação e estacionamento)
-3) Expansão do prédio (mais quartos)
-4) Construção de áreas de lazer (piscina, bar, salão de jogos) 
+<br/>
+**ATIVIDADE 6 - PLANEJAMENTO DO GOOGLE**
 <br/>
 <br/>
-<br/>
-ATIVIDADE 6 - PLANEJAMENTO DO GOOGLE
-<br/>
-<br/>
-★PLANEJAMENTO DO GOOGLE★
-O que o Google tem? Ranking de pesquisa (o que é mais relacionado aparece primeiro), buscador, gmail (login), abas de pesquisa, categorias de pesquisa
-Dor do cliente: Desorganização da informação - Rankear as pesquisas
+★PLANEJAMENTO DO GOOGLE★<br>
+O que o Google tem? Ranking de pesquisa (o que é mais relacionado aparece primeiro), buscador, gmail (login), abas de pesquisa, categorias de pesquisa<br>
+Dor do cliente: Desorganização da informação - Rankear as pesquisas<br>
 <br/>
 <br/>
-- Processo tradicional:
-1) Desenvolvimento de um buscador 
-2) Aprimoramento do buscador com categorias de pesquisa 
-3) Abas de pesquisa
-4) Gmail (login)
-5) Ranking de pesquisa (Algoritmo PageRank)
+- Processo tradicional:<br>
+1) Desenvolvimento de um buscador<br> 
+2) Aprimoramento do buscador com categorias de pesquisa<br> 
+3) Abas de pesquisa<br>
+4) Gmail (login)<br>
+5) Ranking de pesquisa (Algoritmo PageRank)<br>
 <br/>
-<br/>
-- Processo ágil:
-1) Desenvolvimento de um buscador simples com ranking de pesquisas (Algoritmo PageRank)
-2) Abas de pesquisa 
-3) Aprimoramento do buscador com categorias de pesquisa
-4) Gmail (Login)
+- Processo ágil:<br>
+1) Desenvolvimento de um buscador simples com ranking de pesquisas (Algoritmo PageRank)<br>
+2) Abas de pesquisa<br> 
+3) Aprimoramento do buscador com categorias de pesquisa<br>
+4) Gmail (Login)<br>
