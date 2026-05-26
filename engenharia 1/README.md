@@ -61,4 +61,54 @@ Caso 2) Android x IOS
 - Android apresenta maior flexibilidade, portabilidade, usabilidade 
 - IOS apresenta maior performance, segurança, robustez.
 <br/>
-Caso 3)
+Caso 3)xxxxxx
+-xxxx
+-xxxx
+<br/>
+<br/>
+<br/>
+ATIVIDADE 5 - PLANEJAMENTO DE UM HOTEL
+<br/>
+<br/>
+★ Planejamento de um hotel ★
+O que tem em um hotel? 
+Funcionários, quartos, recepção, serviços extras, áreas de lazer.
+Dor do cliente: Dormir em algum lugar
+<br/>
+<br/>
+- Processo tradicional:
+1) Construção de áreas de lazer (piscina, bar, salão de jogos)
+2) Construção da recepção e áreas administrativas
+3) Construção dos quartos
+4) Contratação de funcionários
+<br/>
+<br/>
+- Processo ágil:
+1) Construção de uma pousada funcional (Poucos quartos e funcionários)
+2) Expansão dos serviços (Alimentação e estacionamento)
+3) Expansão do prédio (mais quartos)
+4) Construção de áreas de lazer (piscina, bar, salão de jogos) 
+<br/>
+<br/>
+<br/>
+ATIVIDADE 6 - PLANEJAMENTO DO GOOGLE
+<br/>
+<br/>
+★PLANEJAMENTO DO GOOGLE★
+O que o Google tem? Ranking de pesquisa (o que é mais relacionado aparece primeiro), buscador, gmail (login), abas de pesquisa, categorias de pesquisa
+Dor do cliente: Desorganização da informação - Rankear as pesquisas
+<br/>
+<br/>
+- Processo tradicional:
+1) Desenvolvimento de um buscador 
+2) Aprimoramento do buscador com categorias de pesquisa 
+3) Abas de pesquisa
+4) Gmail (login)
+5) Ranking de pesquisa (Algoritmo PageRank)
+<br/>
+<br/>
+- Processo ágil:
+1) Desenvolvimento de um buscador simples com ranking de pesquisas (Algoritmo PageRank)
+2) Abas de pesquisa 
+3) Aprimoramento do buscador com categorias de pesquisa
+4) Gmail (Login)
